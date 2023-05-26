@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'd8bf9106df17c75b7534414ecf436f40', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	language: 'fr', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '43.899',
+	defaultLongitude: '4.749',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Mail Laposte',
+			icon: 'mail',
+			link: 'https://www.laposte.net/accueil',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Mail Gmail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://www.gmail.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Facebook',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://facebook.com',
 		},
 		{
 			id: '4',
