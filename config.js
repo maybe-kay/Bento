@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Wikipedia',
+			icon: 'glasses',
+			link: 'https://fr.wikipedia.org',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Le Monde',
+					link: 'https://www.lemonde.fr',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Liberation',
+					link: 'https://www.liberation.fr',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Mediapart',
+					link: 'https://www.mediapart.fr',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'La Provence',
+					link: 'https://www.laprovence.com',
 				},
 			],
 		},
@@ -204,27 +204,6 @@ const CONFIG = {
 				},
 			],
 		},
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
-				},
-			],
-		},
+		
 	],
 };
