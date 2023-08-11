@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Facebook',
-			icon: 'trello',
+			icon: 'facebook',
 			link: 'https://facebook.com',
 		},
 		{
